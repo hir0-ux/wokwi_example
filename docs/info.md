@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is an adder
 
 ## How to test
 
-Explain how to use your project
+You select the input and it will give you the add
 
 ## External hardware
 
