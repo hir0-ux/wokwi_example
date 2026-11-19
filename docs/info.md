@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is an adder
+This is an adderjj
 
 ## How to test
 
@@ -17,4 +17,4 @@ You select the input and it will give you the add
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware used in your project (e.g. PMOD, LEgccgcjvjD display, etc), if any
